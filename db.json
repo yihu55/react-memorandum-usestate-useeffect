@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "data": [
+        {
+          "date": "2022-01-06",
+          "time": "16:44",
+          "text": "2",
+          "id": "c22714eb-457c-4a05-9fb6-8139801c2ec0"
+        },
+        {
+          "date": "2022-01-06",
+          "time": "16:44",
+          "text": "1",
+          "id": "9bb40cb7-e9e6-49af-9ca9-2ba7ba2819b0"
+        },
+        {
+          "date": "2022-01-05",
+          "time": "16:22",
+          "text": "memoreandunoagnewf",
+          "id": "9a5bbcc3-8e55-482c-ae84-1e3ee06c9c6c"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
